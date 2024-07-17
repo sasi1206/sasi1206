@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React,MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **sasidharankm4@gmail.com**
 
